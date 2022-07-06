@@ -1,2 +1,2 @@
-# todolistnew
-Created with CodeSandbox
+# ToDolist
+It is a todo list
